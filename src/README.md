@@ -148,7 +148,7 @@ Thư mục `data/report_samples/` hiện có 12 mẫu Excel đầu và `report_s
 
 ## 8. Log và file sinh ra khi chạy
 
-Các file log không cần nộp sẵn. Khi chạy, app có thể tự tạo:
+Các file log khi chạy, app có thể tự tạo:
 
 ```text
 logs/report_task_YYYYMMDD.jsonl
